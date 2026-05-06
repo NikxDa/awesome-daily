@@ -35,6 +35,7 @@
 - [WhichWay](https://whichway.is/) - Point to the target country on a globe without looking.
 - [Enclose Horse](https://enclose.horse/) - Place walls on a grid to enclose a horse and maximize your score.
 - [Forgeous](https://forgeous.fun) - Forge the artwork as best as you can in less than 3 minutes.
+- [Hollywood Six Degrees](https://hollywood.six-degrees.app/daily) - Connect two actors through a chain of shared movies in as few steps as possible.
 
 ## Contributing
 
