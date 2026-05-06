@@ -1,4 +1,4 @@
-# Awesome Daily games [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Daily Games [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of awesome daily minigames and puzzles.
 
