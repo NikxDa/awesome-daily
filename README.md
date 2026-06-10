@@ -5,7 +5,7 @@
 ## Word Games
 
 - [Wordle](https://www.nytimes.com/games/wordle/index.html) - Guess the five-letter word in six attempts.
-- [Purple Word](https://purpleword.com/) - Guess the secret word using alphabetical before/after clues.
+- [Purple Word](https://boredzebra.com/purpleword/) - Guess the secret word using alphabetical before/after clues.
 - [Waffle](https://wafflegame.net/daily) - Swap letters on a waffle-shaped grid to solve all words in limited moves.
 - [Mini Crossword](https://www.nytimes.com/crosswords/game/mini) - A quick 5x5 crossword from the New York Times.
 - [Tiled Words](https://tiledwords.com/) – Arrange and orient partial words of a common theme.
