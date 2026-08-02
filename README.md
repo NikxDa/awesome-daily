@@ -40,6 +40,7 @@
 - [PuzzlePass](https://puzzlepass.io/) – A collection of free daily games, including some classics.
 - [RNGdle](https://www.rngdle.com/) – Test your luck by generating a daily number and seeing how well your draw scores against others.
 - [Hollywood Six Degrees](https://hollywood.six-degrees.app/daily) - Connect two actors through a chain of shared movies in as few steps as possible.
+- [Scorewit](https://www.scorewit.com) - Seven daily fact-checked sports trivia games, one six-question round per sport per day.
 
 ## Contributing
 
