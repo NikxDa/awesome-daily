@@ -16,6 +16,7 @@
 
 - [Clues by Sam](https://cluesbysam.com/) – Deduct who is a criminal and who is innocent based on hints you progressively reveal.
 - [Cryptle](https://cryptle.co.uk/) - Find the secret color code using positional hints.
+- [Meikyu](https://meikyu.app/play/) - Deduce a five-resident dungeon in six attempts using positional feedback and hidden rules; free through floor 19.
 
 # Number Games
 
