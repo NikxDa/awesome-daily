@@ -11,6 +11,7 @@
 - [Tiled Words](https://tiledwords.com/) – Arrange and orient partial words of a common theme.
 - [Circuits](https://www.puzzmo.com/play/circuits) – Enter words to complete compound terms and close circuits.
 - [Raddle](https://raddle.quest/) – Fill in the missing related words by using clues.
+- [SpellSweep](https://blendletan.github.io/SpellSweep/) - Find words on a 5×5 letter grid and cover every tile using as few words as possible.
 
 ## Deduction Games
 
