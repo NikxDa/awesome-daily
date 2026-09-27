@@ -40,6 +40,7 @@
 - [PuzzlePass](https://puzzlepass.io/) – A collection of free daily games, including some classics.
 - [RNGdle](https://www.rngdle.com/) – Test your luck by generating a daily number and seeing how well your draw scores against others.
 - [Hollywood Six Degrees](https://hollywood.six-degrees.app/daily) - Connect two actors through a chain of shared movies in as few steps as possible.
+- [Felbor](https://felbor.web.app/download) - Six daily puzzles (word search, path-connecting, chess-piece placement and more) with a global daily ranking, on iOS and Android.
 
 ## Contributing
 
