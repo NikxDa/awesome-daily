@@ -11,6 +11,7 @@
 - [Tiled Words](https://tiledwords.com/) – Arrange and orient partial words of a common theme.
 - [Circuits](https://www.puzzmo.com/play/circuits) – Enter words to complete compound terms and close circuits.
 - [Raddle](https://raddle.quest/) – Fill in the missing related words by using clues.
+- [Double Cross](https://everhall.ca) – Each card gives two clues for two same-length slots; work out from the crossings which answer goes where.
 
 ## Deduction Games
 
