@@ -17,9 +17,10 @@
 - [Clues by Sam](https://cluesbysam.com/) – Deduct who is a criminal and who is innocent based on hints you progressively reveal.
 - [Cryptle](https://cryptle.co.uk/) - Find the secret color code using positional hints.
 
-# Number Games
+## Number Games
 
 - [Sumplete](https://sumplete.com/) – Cross out numbers until all sums are correct.
+- [Matiks](https://matiksguide.in/play/) – Solve daily math maze, cross math, kenken, and mini sudoku puzzles in your browser.
 
 ## Guessing Games
 
