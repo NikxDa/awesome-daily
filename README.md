@@ -41,6 +41,8 @@
 - [RNGdle](https://www.rngdle.com/) – Test your luck by generating a daily number and seeing how well your draw scores against others.
 - [Hollywood Six Degrees](https://hollywood.six-degrees.app/daily) - Connect two actors through a chain of shared movies in as few steps as possible.
 
+- [Morningwit](https://morningwit.com/) - Free daily logic and word puzzles with gentle hints (Sudoku variants, Binairo, Star Battle).
+
 ## Contributing
 
 Contributions welcome! Read the [contributing guidelines](CONTRIBUTING.md).
