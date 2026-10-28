@@ -4,6 +4,7 @@
 
 ## Word Games
 
+- [Ideoy](https://ideoy.ai) - Remake this week's viral meme videos from one selfie (AI image-to-video / photo-to-video meme templates, 9:16, freemium).
 - [Wordle](https://www.nytimes.com/games/wordle/index.html) - Guess the five-letter word in six attempts.
 - [Purple Word](https://purpleword.com/) - Guess the secret word using alphabetical before/after clues.
 - [Waffle](https://wafflegame.net/daily) - Swap letters on a waffle-shaped grid to solve all words in limited moves.
