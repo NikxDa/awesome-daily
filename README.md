@@ -23,6 +23,7 @@
 
 ## Guessing Games
 
+- [EraGuessr](https://eraguessr.ai/play/daily) - Guess the location and year of an AI-generated historical panorama in a free daily challenge.
 - [Tradle](https://tradle.net/) – Guess the country based on its exports
 - [Redactle](https://redactle.net/) - Guess words to unredact a hidden Wikipedia article.
 - [Hued](https://playhued.com/) – Try to match the color of a given object as best as you can.
