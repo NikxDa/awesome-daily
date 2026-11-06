@@ -20,6 +20,7 @@
 # Number Games
 
 - [Sumplete](https://sumplete.com/) – Cross out numbers until all sums are correct.
+- [Tilehit](https://tilehit.com/) - Combine six number tiles with + - x / to reach a three-digit target.
 
 ## Guessing Games
 
