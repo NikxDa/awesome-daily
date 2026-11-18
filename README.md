@@ -16,6 +16,7 @@
 
 - [Clues by Sam](https://cluesbysam.com/) – Deduct who is a criminal and who is innocent based on hints you progressively reveal.
 - [Cryptle](https://cryptle.co.uk/) - Find the secret color code using positional hints.
+- [Little Plot](https://littleplotgame.com/) - Place 12 buildings on a shared daily 5×5 board and score points from terrain and neighboring buildings.
 
 # Number Games
 
