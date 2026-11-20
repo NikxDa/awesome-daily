@@ -11,6 +11,7 @@
 - [Tiled Words](https://tiledwords.com/) – Arrange and orient partial words of a common theme.
 - [Circuits](https://www.puzzmo.com/play/circuits) – Enter words to complete compound terms and close circuits.
 - [Raddle](https://raddle.quest/) – Fill in the missing related words by using clues.
+- [Noillirk](https://pufferparty.org/noillirk/) - Guess common answers to seven category prompts in a free browser word puzzle with a new daily set.
 
 ## Deduction Games
 
